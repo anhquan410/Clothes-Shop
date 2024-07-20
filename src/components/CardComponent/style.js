@@ -20,7 +20,6 @@ export const WrapperPriceText = styled.div`
   line-height: 24px;
   color: #3e3e3f;
   padding: 10px 0;
-
 `;
 export const WrapperDiscountText = styled.span`
   font-weight: 400;
@@ -28,5 +27,4 @@ export const WrapperDiscountText = styled.span`
   line-height: 16px;
   color: #a8a9ad;
   padding-left: 8px;
-  text-decoration: line-through;
 `;

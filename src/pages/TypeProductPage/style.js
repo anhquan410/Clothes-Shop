@@ -10,8 +10,8 @@ export const WrapperProducts = styled.div`
 `;
 export const WrapperNavbar = styled(Col)`
   background: #fff;
-  margin-top: 20px;
+  padding-top: 20px;
   padding: 10px;
   border-radius: 6px;
-  height: fit-content;
+  height: 100vh;
 `;
